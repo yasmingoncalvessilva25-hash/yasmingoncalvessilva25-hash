@@ -16,3 +16,4 @@ Qualquer dúvida entre em contato
 <a href="mailto:yasmin.goncalves.silva25@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
 ![](https://media1.tenor.com/m/xCzaD7LnwE4AAAAd/cachorro-dan%C3%A7ando-ia.gif)
+![](https://media.tenor.com/A7MOlEb21VUAAAA1/campe%C3%A3o-depay.webp)
